@@ -1,4 +1,4 @@
 - Cours développé sur ePoc
-- Sur la protection des données et publié à ce lien: https://labcyberptcc.github.io/App
+- Sur la protection des données publié à ce lien: https://labcyberptcc.github.io/App
 - Sur l'impression 3D et les IoT
 - Ebauche de cours sur les canaux auxilliaires
